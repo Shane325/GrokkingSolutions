@@ -47,9 +47,9 @@ test(
     'should return [[-5, 2, 3], [-2, -1, 3]]',
     s.tripletSumToZero([-5, 2, -1, -2, 3]),
     [[-5, 2, 3], [-2, -1, 3]]
-)
+);
 test(
     'should return [[0, 0, 0]]',
     s.tripletSumToZero([0, 0, 0]),
     [[0, 0, 0]]
-)
+);
