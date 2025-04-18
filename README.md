@@ -11,3 +11,4 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
 - Pattern: Fast and Slow Pointers
     - LinkedList Cycle
     - Start of a LinkedList Cycle
+    - Happy Number
