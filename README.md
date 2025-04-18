@@ -12,3 +12,5 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
     - LinkedList Cycle
     - Start of a LinkedList Cycle
     - Happy Number
+- Pattern: Sliding Window
+    - Maximum Sum Subarray of Size K
