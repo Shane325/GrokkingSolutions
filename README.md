@@ -15,3 +15,4 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
 - Pattern: Sliding Window
     - Maximum Sum Subarray of Size K
     - Longest Substring with K Distinct Characters
+    - Fruits in a Basket
