@@ -23,3 +23,4 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
 - Pattern: Cyclic Sort
     - Cyclic Sort
     - Find the Missing Number
+    - Find the Smallest Missing Positive Number
