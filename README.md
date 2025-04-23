@@ -19,3 +19,4 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
     - Longest Substring with Same Letters after Replacement
 - Pattern: Merge Intervals
     - Merge Intervals
+    - Insert Interval
