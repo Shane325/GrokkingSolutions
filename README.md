@@ -24,3 +24,5 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
     - Cyclic Sort
     - Find the Missing Number
     - Find the Smallest Missing Positive Number
+- Pattern: In-place Reversal of a LinkedList
+    - Reverse a LinkedList
