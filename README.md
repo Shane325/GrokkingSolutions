@@ -26,3 +26,5 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
     - Find the Smallest Missing Positive Number
 - Pattern: In-place Reversal of a LinkedList
     - Reverse a LinkedList
+- Pattern: Tree Breadth First Search
+    - Binary Tree Level Order Traversal
