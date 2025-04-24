@@ -40,3 +40,17 @@ test(
     s.traverse(root),
     [[12], [7, 1], [9, 10, 5]]
 );
+
+const root2 = new TreeNode(1);
+root2.left = new TreeNode(2); 
+root2.right = new TreeNode(3); 
+root2.left.left = new TreeNode(4); 
+root2.left.right = new TreeNode(5); 
+root2.right.left = new TreeNode(6); 
+root2.right.right = new TreeNode(7); 
+
+test(
+    'should return [[1], [2, 3], [4, 5, 6, 7]]',
+    s.traverse(root2),
+    [[1], [2, 3], [4, 5, 6, 7]]
+);
