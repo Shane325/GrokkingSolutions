@@ -28,3 +28,4 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
     - Reverse a LinkedList
 - Pattern: Tree Breadth First Search
     - Binary Tree Level Order Traversal
+    - Zigzag Traversal
