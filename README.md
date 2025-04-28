@@ -30,3 +30,6 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
     - Binary Tree Level Order Traversal
     - Zigzag Traversal
     - Connect Level Order Siblings
+- Pattern: Tree Depth First Search
+    - Binary Tree Minimum Sum
+    - Binary Tree Path Sum
