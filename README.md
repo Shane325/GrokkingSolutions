@@ -33,3 +33,5 @@ Here are my solution to the [Grokking the Coding Interview](https://www.designgu
 - Pattern: Tree Depth First Search
     - Binary Tree Minimum Sum
     - Binary Tree Path Sum
+    - All Paths for a Sum
+    - Sum of Path Numbers
